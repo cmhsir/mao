@@ -755,6 +755,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://cdn.jsdelivr.net/gh/cmhsir/mao/spider.jar",
+  "spider": "https://cdn.jsdelivr.net/gh/cmhsir/mao/spider.txt",
   "wallpaper": "https://cdn.jsdelivr.net/gh/cmhsir/mao/wallpaper.png"
 }
